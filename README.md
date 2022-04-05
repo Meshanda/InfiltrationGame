@@ -8,13 +8,13 @@ This game has been made for educational purpose during the first year of the Msc
 Learn about the every aspect of UE4 using C++ only (no blueprints).
 
 #### Technology used
-Unreal Engine 4
+Unreal Engine 4  
 C++
 
 #### Group
-François CALVET  
-Jean DUCAMP
-Killian PEREZ (myself)
+François CALVET   
+Jean DUCAMP  
+Killian PEREZ (myself)  
 
 #### Time to realize it
 1 month
