@@ -2,9 +2,22 @@
 3D Infiltration game on Unreal Engine 4
  
 ## Context
-This game has been made for educational purpose during my time in Gaming Campus school.  
-Group of 3: François CALVET, Jean DUCAMP and myself.  
-The main focus of this project was to discover every part of the engine using C++ code only (no blueprints).
+This game has been made for educational purpose during the first year of the Msc Video Game programming in Gaming Campus with the supervision of Etienne CHAMPAGNE.  
+
+#### Objective
+Learn about the every aspect of UE4 using C++ only (no blueprints).
+
+#### Technology used
+Unreal Engine 4
+C++
+
+#### Group
+François CALVET  
+Jean DUCAMP
+Killian PEREZ (myself)
+
+#### Time to realize it
+1 month
 
 ## Acquired skills
 - Object Oriented Programming in C++
